@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ShashwatGupta2001 (Shashwat Gupta)
 - 👀 I’m interested in Coding, Solving Puzzles and Lawn Tennis.
 - 🌱 I’m currently learning Computer Science @ IIT Kanpur
-- 💞️ I’m looking to collaborate on cool puzzles, computer science problems and researches
-- 📫 How to reach me : please drop me an email - guptashashwatme@gmail.com
+- 💞️ I’m looking to collaborate on cool puzzles, computer science problems and research
