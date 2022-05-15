@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shashwat Gupta (@ShashwatGupta2001)
 
-- 👀 I am a Computer Science Undergrad @ IIT Kanpur 
+- 👀 I am a Computer Science Undergrad @ IIT Kanpur CSE'24
 - 🌱 I’m love to Code, Solve Puzzles and play Lawn Tennis.
 - 💞️ I’m looking to collaborate on cool puzzles and Computer Science Stuff
 
@@ -16,7 +16,6 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/shashwat_gupta2001/#gh-dark-mode-only)
 
 ---
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
