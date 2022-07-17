@@ -6,7 +6,8 @@
 - 🌱 I’m love to Code, Solve Puzzles and play Lawn Tennis, and lean new stuff.
 - 💞️ I’m looking to collaborate on cool puzzles and Computer Science Stuff
 
-### :hammer_and_wrench: Languages and Tools 
+<br><br>
+## :hammer_and_wrench: Languages and Tools 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -18,21 +19,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
 </div>
 
+<br><br>
+
 ### :fire: My Stats
 
-<details>
-  <summary>:zap: GitHub Stats 1</summary>
-
-  <img align="left" alt="Shashwat Gupta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShashwatGupta2001&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-  <summary>:zap: ## GitHub Stats 2</summary>
-
-  <img align="left" alt="Shashwat Gupta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShashwatGupta2001&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShashwatGupta2001&theme=radical)](https://git.io/streak-stats)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatGupta2001&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+  <img align="left" alt="Shashwat Gupta's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=ShashwatGupta2001&theme=radical" /><br><br><br><br><br><br><br><br>
+ 
+  <img align="left" alt="Shashwat Gupta's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatGupta2001&layout=compact&theme=vision-friendly-dark" />
+<br><br><br><br><br><br><br><br><br>
 
 ### 📫 Feel Free to reach out to me here
 
@@ -50,3 +44,4 @@
     <img src="https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
+
