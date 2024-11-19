@@ -3,7 +3,7 @@
 ### :man_technologist: About Me
 
 - 👀 I am a third year Computer Science Undergrad @ IIT Kanpur CSE'24. 
-- 🌱 I’m love to Code, Solve Puzzles and play Lawn Tennis, and lean new stuff.
+- 🌱 I’m love to Code, build AI systems, Solve Puzzles and play Lawn Tennis, and lean new stuff.
 - 💞️ I’m looking to collaborate on cool puzzles and Computer Science Stuff
 
 <br><br>
